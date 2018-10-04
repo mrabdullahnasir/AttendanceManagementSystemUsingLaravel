@@ -5,4 +5,5 @@ Build Status on travis
 
 [![Build Status](https://travis-ci.org/putheakhem/AttendanceManagementSystemUsingLaravel.svg?branch=master)](https://travis-ci.org/putheakhem/AttendanceManagementSystemUsingLaravel)
 
-## Coming Soon
+
+AMSLaravel is an small application used for the help of staff to manage attendance
